@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="title_activity_main">Map</string>
+    <string name="button_title">Загрузить путь</string>
+</resources>
